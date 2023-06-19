@@ -1,0 +1,23 @@
+.euro {
+  vertical-align: top;
+}
+
+.plan {
+  border-color: #c87c6d;
+}
+
+hr {
+  border-top: 1px solid #c87c6d;
+}
+
+.book-btn {
+  padding: 10px 35px;
+}
+.features {
+  margin: 10px;
+}
+
+.price {
+  margin: 10px 0px 50px 0px;
+  word-spacing: 2px;
+}

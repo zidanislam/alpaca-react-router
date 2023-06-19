@@ -1,0 +1,39 @@
+/* button {
+  background-color: #c87c6d;
+  padding: 5px 5px;
+  font-size: 14px;
+} */
+
+.section {
+  background-color: #fedbc5;
+}
+
+.sub {
+  color: #c87c6d;
+  letter-spacing: 3px;
+}
+
+/* .food-img {
+  width: 220px;
+  height: 382px;
+}
+.food-img1 {
+  width: 190px;
+  height: 282px;
+} */
+
+/* .photoshoot {
+  width: 442px;
+  height: 550px;
+} */
+
+.hero-devider {
+  border-top: 2px solid #fedbc5;
+}
+.dvider {
+  border-top: 1px solid #c87c6d;
+}
+.youtuber {
+  width: 880px;
+  height: 495px;
+}

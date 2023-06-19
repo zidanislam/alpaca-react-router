@@ -1,0 +1,21 @@
+input[type="radio"] {
+  visibility: hidden;
+  height: 0;
+  width: 0;
+}
+
+input[type="radio"]:checked + label {
+  background-color: #fef4ee;
+  color: #000000;
+  border-color: #ffffff;
+}
+
+.check {
+}
+
+/* .shape {
+  background-image: url("./../../Images/shape.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
